@@ -86,3 +86,11 @@ This repository is intended for:
 This repository currently focuses on workflow documentation and structure.
 A clean and executable code version can be provided or extended as needed for
 collaborative or industrial use.
+
+---
+
+## How to Run
+
+This repository demonstrates the machine learning workflow and methodology.
+The full executable code and datasets can be provided or extended upon request,
+depending on collaboration or project requirements.
